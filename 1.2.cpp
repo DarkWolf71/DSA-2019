@@ -53,6 +53,6 @@ int main(){
 		cout<<'\n'<<'\n';
 	}
 	
-	
+	delete []a;
 	return 0;
 }
